@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: "AcceleratorLocal";
-  src: url("assets/site-font.ttf") format("truetype");
+  src: url("site-font.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: block;
@@ -25,7 +25,7 @@
 
 @font-face {
   font-family: "AcceleratorLocal";
-  src: url("assets/site-font.ttf") format("truetype");
+  src: url("site-font.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: block;
@@ -33,7 +33,7 @@
 
 @font-face {
   font-family: "AcceleratorLocal";
-  src: url("assets/site-font.ttf") format("truetype");
+  src: url("site-font.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
   font-display: block;
@@ -41,7 +41,7 @@
 
 @font-face {
   font-family: "AcceleratorLocal";
-  src: url("assets/site-font.ttf") format("truetype");
+  src: url("site-font.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
   font-display: block;
